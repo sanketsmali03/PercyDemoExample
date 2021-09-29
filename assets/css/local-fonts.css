@@ -2,7 +2,7 @@
 @font-face {
   font-family: 'Montserrat';
   font-style: normal;
-  font-weight: 300;
+  font-weight: 500;
   src: url('../fonts/montserrat-v12-latin-300.eot'); /* IE9 Compat Modes */
   src: local('Montserrat Light'), local('Montserrat-Light'),
        url('../fonts/montserrat-v12-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
